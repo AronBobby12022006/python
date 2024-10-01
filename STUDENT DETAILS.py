@@ -1,4 +1,4 @@
-""""Author:Aron bobby Daniel
+"""Author:Aron bobby Daniel
     date:1-10-2024
     to view student name,roll no and cgpa"""
 
