@@ -1,3 +1,7 @@
+""""Author:Aron bobby Daniel
+    date:1-10-2024
+    to view student name,roll no and cgpa"""
+
 name=input("enter the student name")
 roll_no=int(input("enter your reg no"))
 roll_no=roll_no+1
